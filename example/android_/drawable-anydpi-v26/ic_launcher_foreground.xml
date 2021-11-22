@@ -7,12 +7,6 @@
     <group>
         <group>
             <path
-                android:pathData="M0 0H2857.5V2857.5H0z"/>
-        </group>
-    </group>
-    <group>
-        <group>
-            <path
                 android:pathData="M1609.08 1713.32l286.23-3.12v6.77l-286.23 1.6z"/>
             <path
                 android:pathData="M628.33 1707.78v22.95l980.75-12.16v-5.25z"/>

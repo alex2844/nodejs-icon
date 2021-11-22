@@ -10,14 +10,7 @@
 	},
 	"main": "lib/index.js",
 	"scripts": {
-		"//start": "androidPath=./example/android_ platforms=android backgroundPath=./example/icon-background.svg foregroundPath=./example/icon.svg node ./lib/cli.js",
-		"start": "androidPath=./example/android_ platforms=android foregroundPath=./example/layered.svg node ./lib/cli.js",
-		"//prepare": "npm install sharp --no-save"
-	},
-	"//dependencies": {
-		"fs-extra": ">=3.0.0",
-		"sharp": ">=0.23.0",
-		"svg2vectordrawable": "2.6.26"
+		"start": "node ./lib/cli.js"
 	},
 	"dependencies": {
 		"fs-extra": "^10.0.0",
