@@ -17,5 +17,6 @@
 		"png-to-ico": "^2.1.2",
 		"sharp": "^0.23.0",
 		"svg2vectordrawable": "^2.8.1"
-	}
+	},
+	"repository": "https://github.com/alex2844/nodejs-icon.git"
 }
